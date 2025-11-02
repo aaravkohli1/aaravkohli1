@@ -25,7 +25,7 @@ I’m a 17-year-old deeply interested in artificial intelligence and the princip
 
 ---
 
-### 📝 Languages
+### 📝 Languages and Frameworks
 <p>
 <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="./readme/c++.svg" />
 <img align="left" alt="Python" width="30px" style="padding-right:10px;"

@@ -5,7 +5,7 @@
 I’m a 17-year-old deeply interested in artificial intelligence and the principles that drive it. I spend most of my time studying how learning systems behave and building projects that test the limits of my understanding. I enjoy solving hard technical problems and turning abstract ideas into code that works. For me, AI is both an engineering challenge and an intellectual pursuit, and I’m always looking for new ways to push my skills further.
 
 <p align="left">
-  <a href="https://github.com/AaravKohli?tab=followers">
+  <a href="https://github.com/aaravkohli1?tab=followers">
     <img alt="followers" title="Follow me on GitHub"
          src="https://custom-icon-badges.demolab.com/github/followers/AaravKohli?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
   </a>

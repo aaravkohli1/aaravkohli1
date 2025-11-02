@@ -17,9 +17,9 @@ I’m a 17-year-old deeply interested in artificial intelligence and the princip
     <img alt="LinkedIn" title="Connect with me on LinkedIn"
          src="https://img.shields.io/badge/LinkedIn-AaravKohli-blue?style=for-the-badge&logo=linkedin"/>
   </a>
-  <a href="mailto:contact@aaravkohli.com">
+  <a href="mailto:contact@aaravkohli2008@gmail.com">
     <img alt="Email" title="Send me an email"
-         src="https://img.shields.io/badge/Email-contact%40aaravkohli.com-red?style=for-the-badge&logo=gmail"/>
+         src="https://img.shields.io/badge/Email-contact-red?style=for-the-badge&logo=gmail"/>
   </a>
 </p>
 
@@ -28,7 +28,9 @@ I’m a 17-year-old deeply interested in artificial intelligence and the princip
 ### 📝 Languages
 <p>
 <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="./readme/c++.svg" />
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+<img align="left" alt="Python" width="30px" style="padding-right:10px;"
+     src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" />
+
 <img align="left" alt="CUDA" width="30px" style="padding-right:10px;" src="./readme/cuda.svg" />
 <img align="left" alt="PyTorch" width="30px" style="padding-right:10px;" src="./readme/pytorch.svg" />
 <img align="left" alt="C" width="30px" style="padding-right:10px;" src="./readme/c.svg" />

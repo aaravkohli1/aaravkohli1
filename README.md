@@ -47,7 +47,7 @@ I’m a 17-year-old deeply interested in artificial intelligence and the princip
 - **C++ Deep Learning Framework** - Lightweight, multithreaded, fast
 - **Lifeline** - Heart attack prediction mobile app
 
-> This is a new GitHub account, so not all repositories are visible 
+> This is a new GitHub account so not all repositories are visible 
 
 ---
 

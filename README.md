@@ -61,6 +61,7 @@ I’m a 17-year-old deeply interested in artificial intelligence and the princip
 --- 
 ### 🌐 Connect
 
+Feel free to reach out
 [LinkedIn](https://www.linkedin.com/in/aarav-kohli26/) • [Email](mailto:contact@aaravkohli2008@gmail.com) 
 
 ```                                                                                                                               ```

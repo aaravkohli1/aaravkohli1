@@ -56,7 +56,7 @@ I’m a 17-year-old deeply interested in artificial intelligence and the princip
 ### 💡Technical Focus
 
 - AI infrastructure - performance optimization and compilers
-- AI Architecture - foundation models, multimodal learning, and reasoning systems
+- AI Architecture
 
 --- 
 ### 🌐 Connect

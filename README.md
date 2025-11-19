@@ -59,10 +59,10 @@ I’m a 17-year-old deeply interested in artificial intelligence and the princip
 - AI Architecture
 
 --- 
-### 🌐 Connect
-
-Feel free to reach out
-[LinkedIn](https://www.linkedin.com/in/aarav-kohli26/) • [Email](mailto:contact@aaravkohli2008@gmail.com) 
+### 🧩 Other Interests
+- **Competitive Math** - Currently Training for the William Lowell Putnam.
+- **Competitive Programming** - I plan on trying out for ICPC next year.
+- **Embedded Software** - I enjoy optimizing systems at a low level.
 
 
 

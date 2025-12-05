@@ -33,6 +33,7 @@ I’m a 17-year-old deeply interested in artificial intelligence and the princip
 
 <img align="left" alt="CUDA" width="30px" style="padding-right:10px;" src="./readme/cuda.svg" />
 <img align="left" alt="PyTorch" width="30px" style="padding-right:10px;" src="./readme/pytorch.svg" />
+<img align="left" alt="OpenCV" width="30px" style="padding-right:10px;" src="./readme/opencv.svg" />
 <img align="left" alt="C" width="30px" style="padding-right:10px;" src="./readme/c.svg" />
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
@@ -46,8 +47,8 @@ I’m a 17-year-old deeply interested in artificial intelligence and the princip
 ### ⚙️ Projects
 - **Spectrum** - AI-driven adaptive battery management system `(Patent Pending)`
 - **BitExact** - Deterministic CUDA kernels for reproducible AI inference  
-- **C++ Deep Learning Framework** - Lightweight, multithreaded, fast
-- **Lifeline** - Heart attack prediction mobile app
+- **Andromeda** - Text-to-3D Generation on memory constrained consumer GPUs
+- **Apollo** - Self-Improving LLM With Emotional Intelligence
 
 > This is a new GitHub account so not all repositories are visible 
 
@@ -55,8 +56,9 @@ I’m a 17-year-old deeply interested in artificial intelligence and the princip
 
 ### 💡Technical Focus
 
+- Computer Vision & Spatial Intelligence
 - AI infrastructure - performance optimization and compilers
-- AI Architecture
+
 
 --- 
 ### 🧩 Other Interests

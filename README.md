@@ -9,7 +9,7 @@ I’m a 17-year-old deeply interested in artificial intelligence and the princip
     <img alt="followers" title="Follow me on GitHub"
          src="https://custom-icon-badges.demolab.com/github/followers/AaravKohli?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
   </a>
-  <a href="https://github.com/AaravKohli?tab=repositories&sort=stargazers">
+  <a href="https://github.com/aaravkohli1?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub"
          src="https://custom-icon-badges.demolab.com/github/stars/AaravKohli?color=55960c&style=for-the-badge&labelColor=488207&logo=star&logoColor=white"/>
   </a>

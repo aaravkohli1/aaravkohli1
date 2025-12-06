@@ -11,7 +11,7 @@ I’m a 17-year-old deeply interested in artificial intelligence and the princip
   </a>
   <a href="https://github.com/aaravkohli1?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub"
-         src="https://custom-icon-badges.demolab.com/github/stars/AaravKohli?color=55960c&style=for-the-badge&labelColor=488207&logo=star&logoColor=white"/>
+         src="https://custom-icon-badges.demolab.com/github/stars/aaravkohli1?color=55960c&style=for-the-badge&labelColor=488207&logo=star&logoColor=white"/>
   </a>
   <a href="https://linkedin.com/in/aaravkohli">
     <img alt="LinkedIn" title="Connect with me on LinkedIn"

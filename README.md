@@ -48,7 +48,6 @@ I’m a 17-year-old deeply interested in artificial intelligence and the princip
 - **Spectrum** - AI-driven adaptive battery management system `(Patent Pending)`
 - **BitExact** - Deterministic CUDA kernels for reproducible AI inference  
 - **Andromeda** - Text-to-3D Generation on memory constrained consumer GPUs
-- **Apollo** - Self-Improving LLM With Emotional Intelligence
 
 > This is a new GitHub account so not all repositories are visible 
 

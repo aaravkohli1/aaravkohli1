@@ -2,7 +2,7 @@
 
 **`Inventor/Student`**
 
-I’m interested in artificial intelligence and the principles that drive it. I spend most of my time studying how learning systems behave and building projects that test the limits of my understanding. I enjoy solving hard technical problems and turning abstract ideas into code that works. For me, AI is both an engineering challenge and an intellectual pursuit, and I’m always looking for new ways to push my skills further.
+I’m interested in artificial intelligence and the principles that drive it. I spend most of my time studying how learning systems behave and building projects that test the limits of my understanding.
 
 <p align="left">
   <a href="https://github.com/aaravkohli1?tab=followers">

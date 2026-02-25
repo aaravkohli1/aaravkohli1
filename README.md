@@ -5,10 +5,6 @@
 I’m interested in artificial intelligence and the principles that drive it. I spend most of my time studying how learning systems behave and building projects that test the limits of my understanding.
 
 <p align="left">
-  <a href="https://github.com/aaravkohli1?tab=followers">
-    <img alt="followers" title="Follow me on GitHub"
-         src="https://custom-icon-badges.demolab.com/github/followers/AaravKohli?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
-  </a>
   <a href="https://github.com/aaravkohli1?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub"
          src="https://custom-icon-badges.demolab.com/github/stars/aaravkohli1?color=55960c&style=for-the-badge&labelColor=488207&logo=star&logoColor=white"/>

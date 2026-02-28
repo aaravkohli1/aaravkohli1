@@ -41,7 +41,7 @@ I’m interested in artificial intelligence and the principles that drive it. I 
 ---
 
 ### ⚙️ Projects
-- **Spectrum** - AI-driven adaptive battery management system `(Patent Pending)`
+- **Spectrum** - AI-driven adaptive energy management system `(Patent Pending)`
 - **BitExact** - Deterministic CUDA kernels for reproducible AI inference  
 - **Andromeda** - Text-to-3D Generation on memory constrained consumer GPUs
 
@@ -49,10 +49,11 @@ I’m interested in artificial intelligence and the principles that drive it. I 
 
 ---
 
-### 💡Technical Focus
+### 💡Interests
 
 - Computer Vision & Spatial Intelligence
 - AI infrastructure - performance optimization and compilers
+- Applied AI & Reinforcement Learning
 
 
 --- 

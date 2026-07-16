@@ -9,7 +9,7 @@ I’m interested in artificial intelligence and the principles that drive it. I 
     <img alt="total stars" title="Total stars on GitHub"
          src="https://custom-icon-badges.demolab.com/github/stars/aaravkohli1?color=55960c&style=for-the-badge&labelColor=488207&logo=star&logoColor=white"/>
   </a>
-  <a href="https://linkedin.com/in/aaravkohli26">
+  <a href="https://linkedin.com/in/aarav-kohli26">
     <img alt="LinkedIn" title="Connect with me on LinkedIn"
          src="https://img.shields.io/badge/LinkedIn-AaravKohli-blue?style=for-the-badge&logo=linkedin"/>
   </a>

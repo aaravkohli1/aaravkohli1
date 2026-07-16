@@ -1,6 +1,5 @@
 # 💻 Aarav Kohli
 
-**`Inventor/Student`**
 
 I’m interested in artificial intelligence and the principles that drive it. I spend most of my time studying how learning systems behave and building projects that test the limits of my understanding.
 
